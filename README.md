@@ -157,7 +157,7 @@ Réponse + Sources citées
 ### Étape 1 : Cloner le repository
 
 ```bash
-git clone https://github.com/luckhub01/hackaton_rag.git
+git clone https://github.com/LuckHub01/Hackaton-RAG.git
 cd culture-burkina-rag
 ```
 
