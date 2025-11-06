@@ -1,0 +1,73 @@
+# REQUIREMENTS.TXT - Culture Burkinabè RAG
+# Toutes les dépendances sont 100% Open Source
+
+# ============================================
+# CORE RAG COMPONENTS
+# ============================================
+
+# Embeddings - Sentence Transformers (Apache 2.0)
+sentence-transformers==2.2.2
+transformers==4.35.2
+torch==2.9.0
+
+# Vector Database - ChromaDB (Apache 2.0)
+#chromadb==0.4.18
+
+# Alternative Vector DB - FAISS (MIT)
+faiss-cpu==1.12.0
+
+# ============================================
+# WEB SCRAPING & DATA PROCESSING
+# ============================================
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# ============================================
+# API & BACKEND
+# ============================================
+
+# FastAPI (MIT)
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+python-multipart==0.0.6
+
+# ============================================
+# FRONTEND
+# ============================================
+
+# Streamlit (Apache 2.0)
+streamlit==1.28.2
+plotly==5.18.0
+
+# ============================================
+# DATA PROCESSING
+# ============================================
+#numpy==1.24.3
+#pandas==2.0.3
+
+# ============================================
+# UTILITIES
+# ============================================
+python-dotenv==1.0.0
+tqdm==4.66.1
+
+# ============================================
+# OPTIONAL: LOCAL LLM (Ollama)
+# ============================================
+# Ollama est installé séparément: https://ollama.ai/
+# Pas de dépendance Python requise, juste requests
+
+# ============================================
+# LICENSES SUMMARY
+# ============================================
+# - sentence-transformers: Apache 2.0
+# - transformers: Apache 2.0
+# - chromadb: Apache 2.0
+# - faiss: MIT
+# - fastapi: MIT
+# - streamlit: Apache 2.0
+# - All other dependencies: MIT or Apache 2.0
+# 
+# ✅ 100% Open Source Project

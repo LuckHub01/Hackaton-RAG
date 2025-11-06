@@ -1,0 +1,89 @@
+# ==========================
+# Environnement Python
+# ==========================
+venv/
+.env
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+.eggs/
+.Python
+
+# ==========================
+# Données et fichiers volumineux
+# ==========================
+.env
+cache/
+outputs/
+logs/
+*.log
+
+# ==========================
+# Jupyter / IPython
+# ==========================
+.ipynb_checkpoints/
+*.ipynb~
+
+# ==========================
+# IDE / Éditeurs
+# ==========================
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# ==========================
+# Fichiers système
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================
+# Streamlit / Web app
+# ==========================
+.streamlit/
+__pycache__/
+*.db
+*.sqlite3
+
+# ==========================
+# Hugging Face / modèles locaux
+# ==========================
+huggingface/
+transformers_cache/
+models/
+*.bin
+*.safetensors
+
+# ==========================
+# Sauvegardes et temporaires
+# ==========================
+*.bak
+*.tmp
+*.old
+*.swp
+*.zip
+*.tar
+*.gz
+
+# ==========================
+# Tests
+# ==========================
+.coverage
+htmlcov/
+.cache/
+pytest_cache/
+.tox/
+.mypy_cache/
+
+# ==========================
+# Windows / OneDrive
+# ==========================
+~$*
+*.lnk
+*.tmp
+OneDrive/

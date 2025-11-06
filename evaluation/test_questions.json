@@ -1,0 +1,206 @@
+[
+  {
+    "question": "Quels sont les principaux festivals culturels au Burkina Faso?",
+    "expected_answer": "Les principaux festivals incluent les REMA (Rencontres Musicales Africaines), le FESPACO (festival de cinéma), et divers festivals de musique et d'arts.",
+    "keywords": [
+      "REMA",
+      "festival",
+      "FESPACO",
+      "musique",
+      "culture"
+    ]
+  },
+  {
+    "question": "Qui est Alif Naaba?",
+    "expected_answer": "Alif Naaba est un artiste burkinabè, initiateur du projet 'Nos voix pour la paix' qui rassemble plusieurs artistes pour promouvoir la cohésion sociale.",
+    "keywords": [
+      "Alif Naaba",
+      "artiste",
+      "paix",
+      "musique"
+    ]
+  },
+  {
+    "question": "Qu'est-ce que le BBDA?",
+    "expected_answer": "Le BBDA (Bureau Burkinabè du Droit d'Auteur) est une institution qui gère les droits collectifs des artistes au Burkina Faso.",
+    "keywords": [
+      "BBDA",
+      "droits d'auteur",
+      "artistes",
+      "gestion"
+    ]
+  },
+  {
+    "question": "Que sont les REMA?",
+    "expected_answer": "Les REMA (Rencontres Musicales Africaines) sont un festival majeur de musique qui se tient à Ouagadougou et rassemble des artistes africains.",
+    "keywords": [
+      "REMA",
+      "musique",
+      "festival",
+      "Ouagadougou",
+      "africain"
+    ]
+  },
+  {
+    "question": "Quel est le rôle de la culture dans la cohésion sociale au Burkina Faso?",
+    "expected_answer": "La culture, notamment la musique et les festivals, joue un rôle de ciment social et contribue à promouvoir la paix et la cohésion entre les différentes communautés.",
+    "keywords": [
+      "culture",
+      "cohésion",
+      "paix",
+      "social",
+      "musique"
+    ]
+  },
+  {
+    "question": "Qui a visité le BBDA récemment?",
+    "expected_answer": "Le Premier ministre a effectué une visite historique au BBDA, une première pour cette institution.",
+    "keywords": [
+      "Premier ministre",
+      "BBDA",
+      "visite",
+      "historique"
+    ]
+  },
+  {
+    "question": "Quels artistes ont participé au projet 'Nos voix pour la paix'?",
+    "expected_answer": "9 artistes ont participé: Alif Naaba, Floby, Amzy, Kawayoto, Fleur, Flora Paré, ATT et Sissao, Sydyr.",
+    "keywords": [
+      "artistes",
+      "Nos voix pour la paix",
+      "Floby",
+      "Alif Naaba"
+    ]
+  },
+  {
+    "question": "Quelle est la tournée prévue pour 'Nos voix pour la paix'?",
+    "expected_answer": "Une tournée est prévue dans 8 villes: Ouagadougou, Kaya, Tenkodogo, Pô, Gaoua, Koudougou, Ouahigouya et Bobo Dioulasso.",
+    "keywords": [
+      "tournée",
+      "villes",
+      "Ouagadougou",
+      "Bobo"
+    ]
+  },
+  {
+    "question": "Quel message le ministre de la culture a-t-il transmis aux artistes?",
+    "expected_answer": "Le ministre encourage les artistes à rechercher l'excellence, à créer des œuvres originales et de qualité, et à conquérir le monde au-delà des frontières du Burkina Faso.",
+    "keywords": [
+      "ministre",
+      "excellence",
+      "artistes",
+      "qualité"
+    ]
+  },
+  {
+    "question": "Comment les artistes peuvent-ils contribuer à la sécurité nationale?",
+    "expected_answer": "Les artistes peuvent galvaniser les combattants et le peuple par leurs créations et leur engagement dans le combat pour la souveraineté.",
+    "keywords": [
+      "artistes",
+      "sécurité",
+      "engagement",
+      "souveraineté"
+    ]
+  },
+  {
+    "question": "Quel est le rôle de l'Union européenne dans les projets culturels?",
+    "expected_answer": "L'Union européenne soutient des projets culturels comme 'Nos voix pour la paix' pour contribuer au retour de la paix et au renforcement de la cohésion sociale.",
+    "keywords": [
+      "Union européenne",
+      "soutien",
+      "paix",
+      "culture"
+    ]
+  },
+  {
+    "question": "Quelles langues sont utilisées dans le titre 'Nos voix pour la paix'?",
+    "expected_answer": "Plusieurs langues nationales sont chantées dans ce titre afin que le message soit entendu par la majorité de la population.",
+    "keywords": [
+      "langues",
+      "nationales",
+      "message",
+      "population"
+    ]
+  },
+  {
+    "question": "Quand se tient la 6e édition des REMA?",
+    "expected_answer": "La 6e édition des REMA se tient du 19 au 21 octobre 2023.",
+    "keywords": [
+      "REMA",
+      "octobre 2023",
+      "édition"
+    ]
+  },
+  {
+    "question": "Quelle est l'importance du BBDA pour les artistes?",
+    "expected_answer": "Le BBDA permet aux artistes de vivre dignement de leur art en gérant le recouvrement de leurs droits d'auteur.",
+    "keywords": [
+      "BBDA",
+      "artistes",
+      "droits",
+      "recouvrement"
+    ]
+  },
+  {
+    "question": "Quels thèmes sont abordés durant la tournée 'Nos voix pour la paix'?",
+    "expected_answer": "Les thèmes incluent la paix, la solidarité, la démocratie, la protection de l'environnement, la justice et l'égalité.",
+    "keywords": [
+      "paix",
+      "solidarité",
+      "démocratie",
+      "justice",
+      "égalité"
+    ]
+  },
+  {
+    "question": "Quelle est la vision du ministre pour les artistes burkinabè?",
+    "expected_answer": "Le ministre souhaite que les artistes burkinabè franchissent les frontières et que leurs œuvres soient reconnues mondialement.",
+    "keywords": [
+      "ministre",
+      "artistes",
+      "frontières",
+      "mondial"
+    ]
+  },
+  {
+    "question": "Comment la musique peut-elle changer les comportements?",
+    "expected_answer": "Selon Alif Naaba, la musique a la capacité d'apporter un changement de comportement et peut contribuer à apaiser les situations difficiles.",
+    "keywords": [
+      "musique",
+      "comportement",
+      "changement",
+      "Alif Naaba"
+    ]
+  },
+  {
+    "question": "Qu'est-ce qui accompagne la tournée musicale?",
+    "expected_answer": "Un tournoi de Maracana accompagne la tournée, débutant le jour de l'ouverture des REMA.",
+    "keywords": [
+      "tournoi",
+      "Maracana",
+      "REMA",
+      "sport"
+    ]
+  },
+  {
+    "question": "Quelle est l'importance de l'art pour la paix selon les participants?",
+    "expected_answer": "L'art, particulièrement la culture, est considéré comme le ciment qui contribue à apporter la paix, toutes les guerres se terminant sur la table de la négociation.",
+    "keywords": [
+      "art",
+      "paix",
+      "culture",
+      "négociation"
+    ]
+  },
+  {
+    "question": "Quel est le message porté par 'Nos voix pour la paix'?",
+    "expected_answer": "Le message vise à promouvoir la paix, la cohésion sociale et l'espoir au Burkina Faso à travers la musique.",
+    "keywords": [
+      "message",
+      "paix",
+      "cohésion",
+      "espoir",
+      "musique"
+    ]
+  }
+]
