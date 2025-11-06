@@ -235,6 +235,8 @@ streamlit run frontend/app.py
 
 Ouvrir http://localhost:8501 dans votre navigateur
 
+![alt text](page_accueil.png)
+
 ### Option 2 : API FastAPI
 
 ```bash
@@ -256,6 +258,9 @@ curl -X POST "http://localhost:8000/ask" \
     "use_local_llm": false
   }'
 ```
+![alt text](poser_question.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 
 ### Option 3 : Python direct
 
@@ -282,7 +287,10 @@ print(result['answer'])
 
 ```bash
 python evaluation/evaluate.py
+
 ```
+
+Le rapport sur l'évaluation se trouve ici "culture-burkina-rag\evaluation\RAPPORT_EVALUATION.md"
 
 ### Métriques calculées
 
