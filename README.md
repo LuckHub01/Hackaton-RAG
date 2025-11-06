@@ -131,7 +131,7 @@ Réponse + Sources citées
 |-----------|-------------|---------|-------|
 | **Embeddings** | sentence-transformers | Apache 2.0 | Vectorisation du texte |
 | **Vector DB** | ChromaDB | Apache 2.0 | Stockage et recherche vectorielle |
-| **LLM** | Mistral-7B (Ollama) | Apache 2.0 | Génération de texte |
+| **LLM** | Mistral-7B-Instruct-v0.2 (Hugging Face) | Apache 2.0 | Génération de texte |
 | **Backend API** | FastAPI | MIT | API REST |
 | **Frontend** | Streamlit | Apache 2.0 | Interface web |
 | **Web Scraping** | BeautifulSoup4 | MIT | Collecte de données |
